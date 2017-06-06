@@ -1,0 +1,12 @@
+new repository
+copas url
+buka terminal
+git
+git clone paste url
+cd file
+buat file 
+git status
+git add .
+git commit(esc+:wq)
+git status
+git push
